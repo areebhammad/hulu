@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'hulu-clone'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7A61FA54B0164F84B5D11177A3C26FCA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_89198D4893254A59BACD9586CB8214D7 }}
           package: .
