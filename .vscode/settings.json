@@ -1,4 +1,5 @@
 {
     "appService.defaultWebAppToDeploy": "/subscriptions/eb1ce164-33a6-4b7b-abbd-3a3a42b35368/resourceGroups/hulu-clone/providers/Microsoft.Web/sites/hulu-clone",
-    "appService.deploySubpath": "."
+    "appService.deploySubpath": ".",
+    "deployToAzure.UseAzurePipelinesForGithub": true
 }
